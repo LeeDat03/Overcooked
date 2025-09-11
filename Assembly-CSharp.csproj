@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\InputActions.cs" />
+    <Compile Include="Assets\Scripts\PlayerAnimator.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
