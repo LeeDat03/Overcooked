@@ -21,7 +21,6 @@ public class SelectedCounterVisual : MonoBehaviour
     {
         if (e.selectedCounter == clearCounter)
         {
-            Debug.Log("✅ Selected THIS counter: " + clearCounter.name);
             Show();
         }
         else
