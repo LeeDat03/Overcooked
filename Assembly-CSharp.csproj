@@ -48,8 +48,10 @@
     <Analyzer Include="D:\App_Installer\Dev_Tool\Unity\Editor\6000.2.1f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\ClearCounter.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\GameInput.cs" />
+    <Compile Include="Assets\Scripts\SelectedCounterVisual.cs" />
     <Compile Include="Assets\PlayerInputActions.cs" />
     <Compile Include="Assets\InputActions.cs" />
     <Compile Include="Assets\Scripts\PlayerAnimator.cs" />
